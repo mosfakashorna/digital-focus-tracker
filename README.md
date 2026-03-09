@@ -14,3 +14,4 @@ A simple Python command-line program to track focus sessions.
 - Conditional statements
 - Lists
 - Time module
+- Arithmetic
